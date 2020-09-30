@@ -1,5 +1,7 @@
 # HiScore
 
+#THANK YOU AOTHMAN .
+
 **HiScore** is a python library for making *scoring functions*, which map objects (vectors of numerical attributes) to scores (a single numerical value). 
 
 Scores are a way for domain experts to communicate the quality of a complex, multi-faceted object to a broader audience. Scores are ubiquitous; everything from [NFL Quarterbacks](http://en.wikipedia.org/wiki/Passer_rating) to the [walkability of neighborhoods](https://www.walkscore.com/) has a score.
